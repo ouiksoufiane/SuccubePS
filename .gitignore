@@ -1,0 +1,10 @@
+*.o
+*.ko
+*.so
+*.out
+a.out
+build/
+Debug/
+Debug/
+*~
+*.swp
